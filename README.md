@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# This Project uses:
+  - useState hook,
+  -  https://opentdb.com/api_config.php as API.
+  -  axios to fetch data.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
